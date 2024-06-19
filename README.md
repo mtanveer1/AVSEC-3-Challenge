@@ -3,7 +3,7 @@ Audio-Visual Speech Enhancement Challenge (AVSE) 2024
 
 
 ## Requirements
-* Python >= 3.10
+* Python >= 3.8
 * [PyTorch](https://pytorch.org/)
 * [PyTorch Lightning](https://lightning.ai/docs/pytorch/latest/)
 * [Decord](https://github.com/dmlc/decord)
@@ -18,6 +18,7 @@ Update DATA_ROOT in config.py
 # Expected folder structure
 |-- train
 |   `-- scenes
+      `--SXXXXX_mixed
 |-- dev
 |   `-- scenes
 |-- eval
@@ -61,4 +62,3 @@ optional arguments:
 ### Evaluate
 ```bash  
 python objective_evaluation.py
-
