@@ -9,8 +9,7 @@ Audio-Visual Speech Enhancement Challenge (AVSE) 2024
 * [Decord](https://github.com/dmlc/decord)
 
 ```bash
-# You can install all requirements using
-pip install -r requirements.txt
+# You can install all requirements using pip install -r requirements.txt
 ```
 
 ## Usage
