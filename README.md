@@ -3,7 +3,7 @@ Audio-Visual Speech Enhancement Challenge (AVSE) 2024
 
 
 ## Requirements
-* Python >= 3.8
+* [Python >= 3.8](https://www.python.org/)
 * [PyTorch](https://pytorch.org/)
 * [PyTorch Lightning](https://lightning.ai/docs/pytorch/latest/)
 * [Decord](https://github.com/dmlc/decord)
