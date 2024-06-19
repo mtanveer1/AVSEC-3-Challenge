@@ -44,9 +44,9 @@ avsec3_data_root
 
 ### Train
 ```bash
-python train.py --log_dir ./logs --batch_size 2 --lr 0.001 --gpu 1 --max_epochs 20
+python train_script.py --log_dir ./logs --batch_size 2 --lr 0.001 --gpu 1 --max_epochs 20
 
-python train.py --log_dir logs --batch_size 2 --lr 0.001 --gpu 1 --max_epochs_no 50
+python train_script.py --log_dir logs --batch_size 2 --lr 0.001 --gpu 1 --max_epochs_no 50
 
 optional arguments:
   -h, --help            show this help message and exit
