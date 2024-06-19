@@ -1,0 +1,10 @@
+decord==0.6.0
+numpy==1.26.0
+opencv_contrib_python
+opencv_python
+opencv_python_headless
+pytorch_lightning==1.8.0
+scipy
+SoundFile
+torch==2.0.0
+tqdm
