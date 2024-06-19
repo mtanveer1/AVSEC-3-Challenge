@@ -16,13 +16,23 @@ Audio-Visual Speech Enhancement Challenge (AVSE) 2024
 Update DATA_ROOT in config.py 
 ```bash
 # Expected folder structure
-|-- train
-|   `-- scenes
-      `--SXXXXX_mixed
-|-- dev
-|   `-- scenes
-|-- eval
-|   `-- scenes
+avsec3_data_root
+├── dev
+│   ├── lips
+│   │   └── S37890_silent.mp4
+│   └── scenes
+│       ├── S37890_interferer.wav
+│       ├── S37890_mixed.wav
+│       ├── S37890_silent.mp4
+│       └── S37890_target.wav
+└── train
+    ├── lips
+    │   └── S34526_silent.mp4
+    └── scenes
+        ├── S34526_interferer.wav
+        ├── S34526_mixed.wav
+        ├── S34526_silent.mp4
+        └── S34526_target.wav
 ```
 
 ### Train
@@ -62,3 +72,11 @@ optional arguments:
 ### Evaluate
 ```bash  
 python objective_evaluation.py
+```
+
+### Contact Us
+For further queries, contact us at:
+
+Arnav Jain - arnavjain2710@gmail.com - https://github.com/arnavjain2710
+
+Jasmer Singh Sanjotra - jasmer.sanjotra@gmail.com - https://github.com/TheAlphaJas
