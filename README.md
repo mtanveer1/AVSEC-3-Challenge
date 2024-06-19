@@ -4,12 +4,13 @@ Audio-Visual Speech Enhancement Challenge (AVSE) 2024
 
 ## Requirements
 * [Python >= 3.8](https://www.python.org/)
-* [PyTorch](https://pytorch.org/)
+* [PyTorch >= 2.0.0](https://pytorch.org/) [Install as per your version of CUDA for GPU support]
 * [PyTorch Lightning](https://lightning.ai/docs/pytorch/latest/)
 * [Decord](https://github.com/dmlc/decord)
 
+You can install all requirements using 
 ```bash
-# You can install all requirements using pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Usage
