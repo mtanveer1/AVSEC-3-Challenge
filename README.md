@@ -25,14 +25,20 @@ avsec3_data_root
 │       ├── S37890_mixed.wav
 │       ├── S37890_silent.mp4
 │       └── S37890_target.wav
-└── train
+├── train
+│   ├── lips
+│   │   └── S34526_silent.mp4
+│   └── scenes
+│       ├── S34526_interferer.wav
+│       ├── S34526_mixed.wav
+│       ├── S34526_silent.mp4
+│       └── S34526_target.wav
+└── eval 
     ├── lips
     │   └── S34526_silent.mp4
     └── scenes
-        ├── S34526_interferer.wav
         ├── S34526_mixed.wav
-        ├── S34526_silent.mp4
-        └── S34526_target.wav
+        └── S34526_silent.mp4
 ```
 
 ### Train
@@ -77,6 +83,8 @@ python objective_evaluation.py
 ### Contact Us
 For further queries, contact us at:
 
-Arnav Jain - arnavjain2710@gmail.com - https://github.com/arnavjain2710
+[Arnav Jain](https://github.com/arnavjain2710) - arnavjain2710@gmail.com 
 
-Jasmer Singh Sanjotra - jasmer.sanjotra@gmail.com - https://github.com/TheAlphaJas
+[Jasmer Singh Sanjotra](https://github.com/TheAlphaJas) - jasmer.sanjotra@gmail.com 
+
+[Harshvardhan Chaudhary](https://github.com/Harshvardhan-To1)
