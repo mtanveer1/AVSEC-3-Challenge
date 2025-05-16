@@ -42,6 +42,9 @@ avsec3_data_root
         └── S34526_silent.mp4
 ```
 
+### Dataset
+Please find the dataset details here: https://github.com/cogmhear/avse_challenge/tree/main/data_preparation/avse1
+
 ### Train
 ```bash
 python train_script.py --log_dir ./logs --batch_size 2 --lr 0.001 --gpu 1 --max_epochs 20
