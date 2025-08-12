@@ -94,3 +94,5 @@ For further queries, contact us at:
 [Jasmer Singh Sanjotra](https://github.com/TheAlphaJas) - jasmer.sanjotra@gmail.com 
 
 [Harshvardhan Chaudhary](https://github.com/Harshvardhan-To1)
+
+[M. Sajid](https://github.com/MdSajid1044) - sajid.mathml@gmail.com
