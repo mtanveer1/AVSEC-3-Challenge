@@ -2,7 +2,22 @@
 
 Reference of the paper: **LSTMSE-Net: Long Short Term Speech Enhancement Network for Audio-visual Speech Enhancement**. Jain, A., Sanjotra, J.S., Choudhary, H., Agrawal, K., Shah, R., Jha, R., Sajid, M., Hussain, A., Tanveer, M. (2024), INTERSPEECH 2024 - Proc. 3rd COG-MHEAR Workshop on Audio-Visual Speech Enhancement (AVSEC), 33-37, doi: 10.21437/AVSEC.2024-8
 
-Paper Link: https://doi.org/10.21437/AVSEC.2024-8 or https://doi.org/10.48550/arXiv.2409.02266
+Paper Link: https://doi.org/10.21437/AVSEC.2024-8
+
+Arxiv Link: https://doi.org/10.48550/arXiv.2409.02266
+
+BibTex
+------
+```
+@inproceedings{jain24_avsec,
+  title     = {{LSTMSE-Net: Long Short Term Speech Enhancement Network for Audio-visual Speech Enhancement}},
+  author    = {Arnav Jain and Jasmer S. Sanjotra and Harshvardhan Choudhary and Krish Agrawal and Rupal Shah and Rohan Jha and MD SAJID and Amir Hussain and M Tanveer},
+  year      = {2024},
+  booktitle = {{3rd COG-MHEAR Workshop on Audio-Visual Speech Enhancement (AVSEC)}},
+  pages     = {33--37},
+  doi       = {10.21437/AVSEC.2024-8},
+}
+```
 
 
 ## Requirements
