@@ -1,4 +1,4 @@
-# AVSEC-3-Challenge (Audio-Visual Speech Enhancement Challenge (AVSE) 2024)
+# AVSEC-3-Challenge (Audio-Visual Speech Enhancement Challenge (AVSE) 2024) - INTERSPEECH 2024
 
 Reference of the paper: **LSTMSE-Net: Long Short Term Speech Enhancement Network for Audio-visual Speech Enhancement**. Jain, A., Sanjotra, J.S., Choudhary, H., Agrawal, K., Shah, R., Jha, R., Sajid, M., Hussain, A., Tanveer, M. (2024), INTERSPEECH 2024 - Proc. 3rd COG-MHEAR Workshop on Audio-Visual Speech Enhancement (AVSEC), 33-37, doi: 10.21437/AVSEC.2024-8
 
